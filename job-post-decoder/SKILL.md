@@ -57,12 +57,12 @@ owns the problem, so the post alone already says a lot.
 # <Job title> at <Company>
 Status: <Open / Closed / Not checked> (<date>) · <URL>
 
-What they're building: <1-2 lines> — "<quote from the post>"
+What they're building: <1-2 lines> · "<quote from the post>"
 Why now: <1 line + quote, or "not stated">
-Build or buy: <Build → skip / Run a tool → call / Mixed> — "<quote that decides it>"
+Build or buy: <Build → skip / Run a tool → call / Mixed> · "<quote that decides it>"
 Tools named: <list or "none">
 Owner: <role it reports to, or likely function (inferred)>
-Verdict: <Call / Wait / Skip> — <one line why, for what the user sells>
+Verdict: <Call / Wait / Skip> · <one line why, for what the user sells>
 Opening line: <the line>
 ```
 

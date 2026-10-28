@@ -44,7 +44,7 @@ Selling: <one line> · Limit: <N> characters
 ## Top 5
 ### 1. <Name>, <Role> at <Company>
 Why: <reason>
-Hook: <what they said/did> — <URL> (<date>)
+Hook: <what they said/did> · <URL> (<date>)
 Request (<count>/<limit>): <message>
 
 ## Everyone else

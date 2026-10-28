@@ -57,7 +57,7 @@ a post that turns out closed). If posts drop out, return fewer than 5 and say wh
 # Roles for <candidate>: <target role>
 Receipts used: <2-3 from the CV>
 
-## 1. <Company> — <Job title>
+## 1. <Company> · <Job title>
 Post: <URL> · Open (checked <date>)
 Building: "<quote>" · Why now: "<quote>" or "not stated"
 Write to: <role> (<name if public>)
@@ -66,7 +66,7 @@ How I'd approach it: - ...
 Follow-up (day 5): ...
 
 ## Dropped
-- <Company> — <why: closed / 404 / agency / location>
+- <Company> · <why: closed / 404 / agency / location>
 ```
 
 ## Rules

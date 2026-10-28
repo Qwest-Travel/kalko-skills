@@ -63,7 +63,7 @@ stop. A message built on nothing reads like every other message, and that is the
 
 ```
 # Opener for <Person/Company>
-Fact: "<quoted fact>" — <URL> (<date>)
+Fact: "<quoted fact>" · <URL> (<date>)
 
 LinkedIn DM (<n>/300): ...
 Email subject: ...

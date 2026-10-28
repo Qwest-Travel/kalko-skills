@@ -38,7 +38,7 @@ Light, free version: at most 5 web searches or fetches.
 ```
 # <Company>: <CALL / WAIT / SKIP>
 Reason: <one line>
-Source: "<quoted line>" — <URL> (<date>)
+Source: "<quoted line>" · <URL> (<date>)
 
 Checked:
 - Build in-house: <found / not found> (<URL or "careers page checked">)
