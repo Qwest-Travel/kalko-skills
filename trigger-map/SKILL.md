@@ -18,9 +18,10 @@ The point is a useful first map in a couple of minutes, not a research project.
    If you can't reach the site, ask the user for a one-line description instead.
 
 2. **Match triggers.** Read `references/trigger-families.md`. Start with Part A (buying states, the most
-   proven), then Part B (34 event families). For this product, pick the 5 that most plausibly come
-   *before* a purchase. A good trigger creates a problem the product solves, by a date. Skip events that
-   only make a nice headline.
+   proven), then Part B (34 event families), then Part C (named regulations and standards). For this
+   product, pick the 5 that most plausibly come *before* a purchase. A good trigger creates a problem
+   the product solves, by a date. Skip events that only make a nice headline. From Part C, keep a rule
+   only if it covers the product's buyers and the product helps them meet it.
 
 3. **Look for one buyer quote per trigger (at most 5 web searches in total).** Search for a public line
    where a buyer of this kind of product says the event came first: reviews (G2, Capterra), case
@@ -34,7 +35,9 @@ The point is a useful first map in a couple of minutes, not a research project.
 
 4. **Add a date where one exists.** A regulation's effective date, a vendor's end-of-life date, a
    renewal season. Only with a source URL. Otherwise "no fixed date". A date that has been suspended
-   or postponed goes under Hold with its source, not in the table.
+   or postponed goes under Hold with its source, not in the table. For a rule from Part C, check its
+   current date on the regulator's own site (it counts as one of the 5 searches); the list holds names
+   only, never dates.
 
    If the product's best trigger isn't in the catalog (e.g. "a big customer demands a certificate"),
    use it anyway and name the closest family. Rank evidence you found above the catalog's proof count.
