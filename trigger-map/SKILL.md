@@ -1,6 +1,6 @@
 ---
 name: trigger-map
-description: Takes a company's domain and returns the buying triggers worth watching for what that company sells, ranked, each with the reason, any date that applies and the cheapest place to see it. Light version, public web only. Use this whenever someone asks "what triggers should we watch", "when do our buyers buy", "what signals matter for my product", "build me a trigger map", wants buying signals or intent signals for their market, or pastes their own domain and asks who to reach out to and when, even if they don't say "trigger map".
+description: Ranks the buying triggers to watch for a product, from its domain, with a date and where to spot each. Use when asked which signals or trigger events to watch.
 ---
 
 # trigger-map

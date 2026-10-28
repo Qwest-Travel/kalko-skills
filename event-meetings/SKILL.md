@@ -1,6 +1,6 @@
 ---
 name: event-meetings
-description: Turns a conference attendee or speaker export into who to meet, ranked, plus a personal meeting request for the top people drawn from their own public posts or talks, fitted to the event app's message limit. Use this whenever someone has an attendee list, speaker list or event app export (Slush, Web Summit, SaaStr, Dreamforce, any conference or trade fair) and asks who to meet, who to prioritise, how to ask for meetings, or wants meeting requests written, even if they don't name the skill.
+description: Ranks a conference attendee list by who to meet and writes a request for each under the event's limit. Use when someone has an event attendee or speaker list.
 ---
 
 # event-meetings

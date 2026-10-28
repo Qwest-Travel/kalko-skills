@@ -1,6 +1,6 @@
 ---
 name: filing-plus-job-post
-description: For a US-listed public company, reads the risk section of its latest 10-K or 10-Q next to its open job posts and says what the company seems to be rebuilding, with quotes from both. Use this whenever someone asks what a public company is working on, what its 10-K or 10-Q says for sales, how to read a filing for outreach, or wants account research on a listed company (ticker or name), even if they don't name the skill.
+description: Reads a US public company's 10-K or 10-Q next to its job posts to show what it is rebuilding. Use when asked what a listed company is working on.
 ---
 
 # filing-plus-job-post

@@ -1,6 +1,6 @@
 ---
 name: call-wait-skip
-description: Takes one company and says call, wait or skip for what you sell, with the reason and the dated source. Skip if they're hiring to build it themselves or already use a rival; wait if there's an open incident, a fresh layoff or no dated reason yet; call if there's a dated reason and nothing blocking. Use this whenever someone asks "should I reach out to X", "is X a good account right now", "is now the right time", wants to qualify or disqualify an account, or asks who to leave alone, even if they don't name the skill.
+description: Says call, wait or skip for one company, with the reason and a dated source. Use when asked whether to reach out to a company now, or to qualify an account.
 ---
 
 # call-wait-skip
