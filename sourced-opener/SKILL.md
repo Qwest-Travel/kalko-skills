@@ -1,6 +1,6 @@
 ---
 name: sourced-opener
-description: Writes a cold opener that starts from one dated public fact about a person or company, as a LinkedIn DM and an email, plus a peer line and day 3 / 7 / 14 follow-ups, checked for banned words and length. Refuses to write a line it can't source. Use this whenever someone asks for a cold email, a LinkedIn message, an opener, a first line, outreach copy or follow-ups for a specific person or company, even if they don't name the skill.
+description: Writes a cold opener from one dated public fact: a LinkedIn message, an email, a peer line and 3 follow-ups. Use when asked for cold outreach to a company.
 ---
 
 # sourced-opener

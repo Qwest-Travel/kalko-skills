@@ -1,6 +1,6 @@
 ---
 name: call-prep
-description: Builds a one-page prep for a sales or discovery call from a company and the person you're meeting, in a fixed order (company, person, why you reached out, stack, 5 talking points, meeting context), where every line has a source or is marked "to discover". Has a follow-up mode that starts from the last call's notes. Use this whenever someone says they have a call or meeting with a company or person and wants prep, a briefing, a 1-pager, talking points, or questions to ask, even if they don't name the skill.
+description: Builds a sourced one-page prep for a sales call with a company and a person. Every line has a link or says to discover. Use before a sales or discovery call.
 ---
 
 # call-prep

@@ -1,6 +1,6 @@
 ---
 name: job-post-decoder
-description: Reads one job post and says what the company is building internally, whether it's hiring to build it themselves (skip) or to run a tool (worth a call), who owns the work, one line to open with, and whether the post is still open today. Use this whenever someone pastes a job post URL (Greenhouse, Lever, Ashby, Workable, a careers page) or job description text and asks what it means, what the company is working on, whether it's a sales signal, whether to reach out, or "decode this job post", even if they don't name the skill.
+description: Reads a job post: what the company builds, build or buy, who owns it, a first line, and if it is still open. Use when someone pastes a job post link or text.
 ---
 
 # job-post-decoder

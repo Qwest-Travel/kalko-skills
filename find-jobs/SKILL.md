@@ -1,6 +1,6 @@
 ---
 name: find-jobs
-description: For a job seeker - takes a CV and the role they want, finds companies whose open job posts show they're building exactly that work, names the exec who owns it (not the recruiter), and writes a short note to each that names what they're building and shows the candidate's proof, plus one follow-up. Use this whenever someone is job hunting and asks which companies to apply to, how to reach a hiring manager or founder directly, how to write a cold note for a job, or how to stand out beyond the application form, even if they don't name the skill.
+description: Finds open roles that match a CV, the exec in charge of each, and writes a short note and a follow-up. Use when someone job hunts and wants to reach the hiring manager.
 ---
 
 # find-jobs
