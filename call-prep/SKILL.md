@@ -34,7 +34,7 @@ Light, free version: at most 5 web searches or fetches in total.
 ## Output format (fixed order)
 
 ```
-# Call prep: <Person>, <Role> at <Company> — <meeting date if known>
+# Call prep: <Person>, <Role> at <Company> · <meeting date if known>
 
 ## 1. Company
 - <what they do, size, customers> (<URL>, <date>)

@@ -44,11 +44,11 @@ Light, free version: at most 6 web searches or fetches.
 
 ```
 # <Company> (<ticker>): filing + job posts
-Filing: <10-K/10-Q>, filed <date> — <URL>
+Filing: <10-K/10-Q>, filed <date> · <URL>
 
 | What they seem to be rebuilding | Filing says | Job post says | Match |
 |---|---|---|---|
-| <one line> | "<quote>" (<section>) | "<quote>" — <job title>, <URL> | direct / indirect |
+| <one line> | "<quote>" (<section>) | "<quote>" · <job title>, <URL> | direct / indirect |
 
 Who likely owns it: <role from the post's reporting line, or the team that's hiring>
 Opening angle: <one line that cites the job post, not the filing's worst risk>
